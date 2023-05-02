@@ -9,7 +9,7 @@ I too have given it a shot using some prediction models that we shall look furth
 
 # About the dataset
 
-![alt text](https://storage.googleapis.com/kaggle-datasets-images/782268/1345177/4065b2c4368585abd96b8f7978904ef5/dataset-card.jpg?t=2020-08-04-18-58-32)
+![alt text](https://th.bing.com/th/id/OIP.0icv8CP9ANWzqFPH3tWkWwAAAA?pid=ImgDet&rs=1)
 
 The dataset  contains information about weather conditions at a particular location over a period of time. Lets look at the variables one by one along with their meannings.
 
@@ -53,7 +53,7 @@ The dataset  contains information about weather conditions at a particular locat
 
 # Who is the user?
 
-![alt text](https://yt3.ggpht.com/a/AATXAJyq-3YXqOoGG8ZCry5kOAKo38aLQfSnwWj9zw=s900-c-k-c0xffffffff-no-rj-mo)
+![alt text](https://th.bing.com/th/id/OIP.hbBXIwO5Blhp7L6mMoHORwAAAA?pid=ImgDet&rs=1)
 
 There can be diverse users of this dataset as our lives are closely associated with the weather around us. It can impact business from various domains and people from various walks of life. The user can be a member of the logistic department as weather can impact transportation. The user can be the aviation industry as they use weather data to schedule their flights accordingly. Last but not the least, the user can be weather experts who wants to study weather for forecasting.
 
