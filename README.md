@@ -37,8 +37,6 @@ The dataset  contains information about weather conditions at a particular locat
 
 # Importance of this project.
 
-![alt text](https://2.bp.blogspot.com/-xaXhkB32HUU/TzCPBkVhLaI/AAAAAAAAFvg/Hc0s6Yu8GFI/s1600/Important.jpg)
-
 > The dataset can be used for multiple endavours such as.
 
 1.Weather forecasting
@@ -58,8 +56,6 @@ The dataset  contains information about weather conditions at a particular locat
 There can be diverse users of this dataset as our lives are closely associated with the weather around us. It can impact business from various domains and people from various walks of life. The user can be a member of the logistic department as weather can impact transportation. The user can be the aviation industry as they use weather data to schedule their flights accordingly. Last but not the least, the user can be weather experts who wants to study weather for forecasting.
 
 # Limitations of the study.
-
-![alt text](https://1.bp.blogspot.com/-GsUAWIw-Yqc/X1FY1BUPJDI/AAAAAAABmS8/FaFue3pjn98Zao8b8VmGA10e8NOT4jmswCLcBGAsYHQ/s1600/clue-less.jpg)
 
 Weather is highly capricious and unpredictable. Despite of various studies and analysis, the preduction can go horribly wrong and the exact opposite may happen. Thus this project must not be taken as an absolute standard for weather parameter and should only be considered in lines with the data in this particular dataset. With that being said lets look at some insights.
 
