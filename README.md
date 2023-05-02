@@ -9,20 +9,30 @@ I too have given it a shot using some prediction models that we shall look furth
 
 # About the dataset
 
-![alt text](https://cdn3.iconfinder.com/data/icons/project-management-105/103/23-1024.png)
+![alt text](https://storage.googleapis.com/kaggle-datasets-images/782268/1345177/4065b2c4368585abd96b8f7978904ef5/dataset-card.jpg?t=2020-08-04-18-58-32)
 
 The dataset  contains information about weather conditions at a particular location over a period of time. Lets look at the variables one by one along with their meannings.
 
 1.Year: The year in which the weather conditions were recorded.
+
 2.Month: The month in which the weather conditions were recorded.
+
 3.Summary: A brief summary of the weather conditions (e.g., "Partly Cloudy," "Rain," "Foggy," etc.).
+
 4.Precip Type: The type of precipitation recorded (if any). This could be rain, snow, sleet, or other forms of precipitation.
+
 5.Temperature (C): The temperature in Celsius at the time of the recording.
+
 6.Apparent Temperature (C): The perceived temperature in Celsius at the time of the recording, which takes into account factors such as wind chill and humidity.
+
 7.Humidity: The relative humidity at the time of the recording.
+
 8.Wind Speed (km/h): The wind speed in kilometers per hour at the time of the recording.
+
 9.Wind Bearing (degrees): The direction from which the wind is blowing, given in degrees (0 to 360).
+
 10.Visibility (km): The visibility in kilometers at the time of the recording.
+
 12.Pressure (millibars): The atmospheric pressure in millibars at the time of the recording.
 
 # Importance of this project.
@@ -32,14 +42,18 @@ The dataset  contains information about weather conditions at a particular locat
 > The dataset can be used for multiple endavours such as.
 
 1.Weather forecasting
+
 2.Climate analysis
+
 3.Weather-related research
+
 4.Energy planning
+
 5.Aviation industry
 
 # Who is the user?
 
-![alt text](https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png)
+![alt text](https://yt3.ggpht.com/a/AATXAJyq-3YXqOoGG8ZCry5kOAKo38aLQfSnwWj9zw=s900-c-k-c0xffffffff-no-rj-mo)
 
 There can be diverse users of this dataset as our lives are closely associated with the weather around us. It can impact business from various domains and people from various walks of life. The user can be a member of the logistic department as weather can impact transportation. The user can be the aviation industry as they use weather data to schedule their flights accordingly. Last but not the least, the user can be weather experts who wants to study weather for forecasting.
 
